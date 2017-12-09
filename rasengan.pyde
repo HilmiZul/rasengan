@@ -34,5 +34,4 @@ def draw():
             radius_inti = radius_inti + 0.3
     
         fill(100, 255, 255)
-        ellipse(mouseX, mouseY, radius_inti, radius_inti)
-                
+        ellipse(mouseX, mouseY, radius_inti, radius_inti) 
